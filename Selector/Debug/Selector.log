@@ -1,0 +1,25 @@
+﻿生成启动时间为 2021/6/18 14:09:33。
+     1>项目“C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Selector\Selector.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Selector.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Select.cpp test.cpp
+         test.cpp
+         Select.cpp
+         正在生成代码...
+       Link:
+         d:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.exe" /NOLOGO /MANIFEST /ManifestFile:"Debug\Selector.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.lib" /MACHINE:X86 Debug\Select.obj
+         Debug\test.obj
+         LINK : 没有找到 C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Selector.vcxproj -> C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Debug\Selector.exe;#1" /manifest Debug\Selector.exe.intermediate.manifest "d:\visual studio\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Selector.unsuccessfulbuild”。
+         正在对“Debug\Selector.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\dsx\Documents\Visual Studio 2010\Projects\Selector\Selector\Selector.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.71
